@@ -1,8 +1,7 @@
 config = {
     'user' : 'root',
     'password' : '1347',
-    'host' : 'localhost',
+    'host': 'localhost',
     'port' : '3306',
-    'database' : 'mariadb',
-
+    'database' : 'mariadb'
 }
