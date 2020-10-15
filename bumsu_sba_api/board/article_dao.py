@@ -1,0 +1,3 @@
+class ArticleDao:
+    def __init__(self):
+        ...

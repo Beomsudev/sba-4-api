@@ -1,0 +1,3 @@
+class ArticleDto:
+    def __init__(self):
+        ...
